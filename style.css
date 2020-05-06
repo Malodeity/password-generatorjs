@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #3b3b98;
+  background-color: #33333398;
   color: #fff;
   display: flex;
   font-family: "Muli", sans-serif;
@@ -30,7 +30,7 @@ input[type="checkbox"] {
 }
 
 .container {
-  background-color: #23235b;
+  background-color: #33333398;
   box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
   padding: 20px;
   width: 350px;
@@ -71,7 +71,7 @@ input[type="checkbox"] {
   cursor: pointer;
   font-size: 16px;
   padding: 8px 16px;
-  background-color: #3b3b98;
+  background-color: #33333398;
 }
 
 .btn-large {
